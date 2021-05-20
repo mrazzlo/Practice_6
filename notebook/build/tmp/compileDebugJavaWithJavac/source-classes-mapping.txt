@@ -1,0 +1,4 @@
+ru/mirea/kostushov/notebook/BuildConfig.java
+ ru.mirea.kostushov.notebook.BuildConfig
+ru/mirea/kostushov/notebook/MainActivity.java
+ ru.mirea.kostushov.notebook.MainActivity

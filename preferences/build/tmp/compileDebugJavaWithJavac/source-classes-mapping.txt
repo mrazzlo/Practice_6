@@ -1,0 +1,4 @@
+ru/mirea/kostushov/preferences/BuildConfig.java
+ ru.mirea.kostushov.preferences.BuildConfig
+ru/mirea/kostushov/preferences/MainActivity.java
+ ru.mirea.kostushov.preferences.MainActivity
